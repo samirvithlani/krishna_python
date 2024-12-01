@@ -1,0 +1,10 @@
+# = it will be used to assign the value of the right operand to the left operand
+a = 10
+a+=1
+print("value of a = ",a)
+a-=1
+print("value of a = ",a)
+a*=1
+print("value of a = ",a)
+a/=1
+print("value of a = ",a)

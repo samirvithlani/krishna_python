@@ -1,0 +1,32 @@
+scripting language : python,javascript,php
+programming language : c,cpp,java
+
+statically typed language : c,cpp,java
+    when you decalre a variable you have to specify the type of the variable
+    int a = 10;
+dynamically typed language : python,javascript
+    you dont have to specify the type of the variable
+    a = 10
+    a = "hello"
+
+we can write python code in 3 ways
+1. script mode
+2. interactive mode
+3. IDE [FILE]
+
+operators
+unary operator 
+it will work on single operand
+type:
+    1)increment and decrement operator : python does not support increment and decrement operator
+    
+binary operator
+it will work on two operands
+type:
+    1)arithmetic operator : +,-,*,/,%,//,**
+    2)relational operator : <,>,<=,>=,==,!=
+    3)logical operator : and,or,not
+    4)assignment operator : =,+=,-=,*=,/=,%=,//=,**=
+    5)bitwise operator : &,|,^,~,<<,>>
+    6)membership operator : in,not in
+    7)identity operator : is,is not
