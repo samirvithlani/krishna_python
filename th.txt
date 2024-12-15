@@ -30,3 +30,13 @@ type:
     5)bitwise operator : &,|,^,~,<<,>>
     6)membership operator : in,not in
     7)identity operator : is,is not
+
+decision making statment
+if else...
+if(condition){
+
+}else{
+    
+}
+switch case
+looping
